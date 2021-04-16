@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZohVhEOYT0Jm1r59COSqsr0pLuknZCajN0NoJSv4NHnym9FskypLZR0+5EwlKepbWK1e1mUejKaeVQAH9+hKg==",
+  "dgSpecHash": "FfB2S1bJwCdcJKv0hybvSx6+URul/B53ZWl8aWKdhD1/b70inGQNEVlsgjm9vaXjFphCQS/wV68K3LRY0YZD/Q==",
   "success": true,
-  "projectFilePath": "D:\\Project\\API_VinaGiay\\API_VNG.csproj",
+  "projectFilePath": "D:\\Project\\Vinagiay\\API_VinaGiay\\API_VNG.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

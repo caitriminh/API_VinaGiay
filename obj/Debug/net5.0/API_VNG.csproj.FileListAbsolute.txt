@@ -193,3 +193,9 @@ D:\API_VNG_5.0\obj\Debug\net5.0\API_VNG.genruntimeconfig.cache
 D:\Project\API_VinaGiay\obj\Debug\net5.0\API_VNG.dll
 D:\Project\API_VinaGiay\obj\Debug\net5.0\ref\API_VNG.dll
 D:\Project\API_VinaGiay\obj\Debug\net5.0\API_VNG.pdb
+D:\Project\Vinagiay\API_VinaGiay\obj\Debug\net5.0\API_VNG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Vinagiay\API_VinaGiay\obj\Debug\net5.0\API_VNG.AssemblyInfoInputs.cache
+D:\Project\Vinagiay\API_VinaGiay\obj\Debug\net5.0\API_VNG.AssemblyInfo.cs
+D:\Project\Vinagiay\API_VinaGiay\obj\Debug\net5.0\API_VNG.csproj.CoreCompileInputs.cache
+D:\Project\Vinagiay\API_VinaGiay\obj\Debug\net5.0\API_VNG.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Vinagiay\API_VinaGiay\obj\Debug\net5.0\API_VNG.MvcApplicationPartsAssemblyInfo.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\API_VinaGiay\\API_VNG.csproj": {}
+    "D:\\Project\\Vinagiay\\API_VinaGiay\\API_VNG.csproj": {}
   },
   "projects": {
-    "D:\\Project\\API_VinaGiay\\API_VNG.csproj": {
+    "D:\\Project\\Vinagiay\\API_VinaGiay\\API_VNG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\API_VinaGiay\\API_VNG.csproj",
+        "projectUniqueName": "D:\\Project\\Vinagiay\\API_VinaGiay\\API_VNG.csproj",
         "projectName": "API_VNG",
-        "projectPath": "D:\\Project\\API_VinaGiay\\API_VNG.csproj",
+        "projectPath": "D:\\Project\\Vinagiay\\API_VinaGiay\\API_VNG.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\API_VinaGiay\\obj\\",
+        "outputPath": "D:\\Project\\Vinagiay\\API_VinaGiay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

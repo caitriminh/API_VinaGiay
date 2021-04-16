@@ -24,6 +24,12 @@
     <PackageReference Include="System.Security.Cryptography.Cng" Version="5.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="VNG.Business">
+      <HintPath>..\Business_Vinagiay\bin\Debug\VNG.Business.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
   <!--<ItemGroup>
     <ProjectReference Include="..\VINAGIAY.Business\VNG.Business.csproj" />
   </ItemGroup>-->
