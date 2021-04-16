@@ -1588,15 +1588,6 @@
         "runtime": {
           "lib/net40/WebActivator.dll": {}
         }
-      },
-      "VNG.Business/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/VNG.Business.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/VNG.Business.dll": {}
-        }
       }
     }
   },
@@ -5855,11 +5846,6 @@
         "webactivator.1.5.1.nupkg.sha512",
         "webactivator.nuspec"
       ]
-    },
-    "VNG.Business/1.0.0": {
-      "type": "project",
-      "path": "../VINAGIAY.Business/VNG.Business.csproj",
-      "msbuildProject": "../VINAGIAY.Business/VNG.Business.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5875,8 +5861,7 @@
       "Swashbuckle.AspNetCore.SwaggerGen >= 5.6.3",
       "Swashbuckle.AspNetCore.SwaggerUI >= 5.6.3",
       "System.Data.SqlClient >= 4.8.2",
-      "System.Security.Cryptography.Cng >= 5.0.0",
-      "VNG.Business >= 1.0.0"
+      "System.Security.Cryptography.Cng >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -5886,11 +5871,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\API_VNG_5.0\\API_VNG.csproj",
+      "projectUniqueName": "D:\\Project\\API_VinaGiay\\API_VNG.csproj",
       "projectName": "API_VNG",
-      "projectPath": "D:\\API_VNG_5.0\\API_VNG.csproj",
+      "projectPath": "D:\\Project\\API_VinaGiay\\API_VNG.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\API_VNG_5.0\\obj\\",
+      "outputPath": "D:\\Project\\API_VinaGiay\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5911,11 +5896,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "D:\\VINAGIAY.Business\\VNG.Business.csproj": {
-              "projectPath": "D:\\VINAGIAY.Business\\VNG.Business.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

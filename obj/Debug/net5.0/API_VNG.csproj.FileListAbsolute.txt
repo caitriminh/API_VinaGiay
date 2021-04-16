@@ -190,3 +190,6 @@ D:\API_VNG_5.0\obj\Debug\net5.0\API_VNG.dll
 D:\API_VNG_5.0\obj\Debug\net5.0\ref\API_VNG.dll
 D:\API_VNG_5.0\obj\Debug\net5.0\API_VNG.pdb
 D:\API_VNG_5.0\obj\Debug\net5.0\API_VNG.genruntimeconfig.cache
+D:\Project\API_VinaGiay\obj\Debug\net5.0\API_VNG.dll
+D:\Project\API_VinaGiay\obj\Debug\net5.0\ref\API_VNG.dll
+D:\Project\API_VinaGiay\obj\Debug\net5.0\API_VNG.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API_VNG_5.0\\API_VNG.csproj": {}
+    "D:\\Project\\API_VinaGiay\\API_VNG.csproj": {}
   },
   "projects": {
-    "D:\\API_VNG_5.0\\API_VNG.csproj": {
+    "D:\\Project\\API_VinaGiay\\API_VNG.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API_VNG_5.0\\API_VNG.csproj",
+        "projectUniqueName": "D:\\Project\\API_VinaGiay\\API_VNG.csproj",
         "projectName": "API_VNG",
-        "projectPath": "D:\\API_VNG_5.0\\API_VNG.csproj",
+        "projectPath": "D:\\Project\\API_VinaGiay\\API_VNG.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\API_VNG_5.0\\obj\\",
+        "outputPath": "D:\\Project\\API_VinaGiay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,11 +32,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "D:\\VINAGIAY.Business\\VNG.Business.csproj": {
-                "projectPath": "D:\\VINAGIAY.Business\\VNG.Business.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -121,16 +117,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "D:\\VINAGIAY.Business\\VNG.Business.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\VINAGIAY.Business\\VNG.Business.csproj",
-        "projectName": "VNG.Business",
-        "projectPath": "D:\\VINAGIAY.Business\\VNG.Business.csproj"
-      },
-      "frameworks": {
-        "net472": {}
       }
     }
   }

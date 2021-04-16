@@ -24,8 +24,8 @@
     <PackageReference Include="System.Security.Cryptography.Cng" Version="5.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <ProjectReference Include="..\VINAGIAY.Business\VNG.Business.csproj" />
-  </ItemGroup>
+  </ItemGroup>-->
 
 </Project>
